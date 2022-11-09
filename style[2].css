@@ -1,0 +1,32 @@
+body
+	{
+		margin: 20px;
+		font-family: Verdana, Tahoma, Geneva, sans-serif;
+		
+	}
+	
+
+.infos_img
+
+	{
+		width: 150px;
+	}
+
+.carte
+	{
+		width: 400px;
+		padding: 20px;
+		display: flex;      /* Tous les éléments sur la même ligne  */
+		justify-content: space-around;
+		margin: 0 auto;  
+		text-align: center;
+		color: #2b2839;
+		background: #ddebf8;
+		border-bottom: 6px solid #d8cefe;
+	}
+	
+	
+	
+	
+
+	
